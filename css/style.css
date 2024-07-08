@@ -10,12 +10,12 @@ header {
   justify-content: space-between;
   padding: 12px 100px;
   width: 100%;
-  background-color: aqua;
+  background-color: red;
 }
 header .brand-logo {
   font-size: 32px;
   font-weight: bold;
-  color: #000;
+  color: yellow;
 }
 header ul {
   display: flex;
@@ -29,7 +29,7 @@ header ul li a {
   text-decoration: none;
   font-size: 18px;
   line-height: 32px;
-  color: #000;
+  color: yellow;
 }
 
 /*# sourceMappingURL=style.css.map */
